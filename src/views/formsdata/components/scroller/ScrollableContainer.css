@@ -1,0 +1,17 @@
+.simplebar-track.simplebar-vertical {
+    width: 4px;
+    border-radius: 8px;
+}
+
+.simplebar-scrollbar {
+    background: #0a7da465;
+    color: #0a7da465;
+    border: #0a7da465 solid;
+    border-radius: 8px;
+    opacity: 1;
+    width: 4px;
+}
+
+.simplebar-track.simplebar-horizontal {
+    display: none;
+}
